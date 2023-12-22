@@ -1,0 +1,15 @@
+uvicorn
+pymongo
+fastapi
+pydantic
+pyee
+greenlet
+playwright
+text-unidecode
+tomli
+python-slugify
+pluggy
+packaging
+iniconfig
+confluent_kafka
+python-dotenv
